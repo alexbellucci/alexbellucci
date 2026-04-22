@@ -69,8 +69,8 @@ Atualmente trabalho principalmente com **React** no frontend e **C#** no backend
 
 ## 🤝 Vamos nos conectar
 
-- 💼 LinkedIn: (coloca teu link aqui)
-- 📧 Email: (opcional)
+- 💼 LinkedIn: [(Alex Bellucci)](https://www.linkedin.com/in/alex-bellucci/)
+- 📧 Email: alexdacunha.100@gmail.com
 
 ---
 
